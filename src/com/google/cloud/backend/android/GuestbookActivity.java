@@ -20,12 +20,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.cloud.backend.android.CloudBackendActivity;
-import com.google.cloud.backend.android.CloudCallbackHandler;
-import com.google.cloud.backend.android.CloudEntity;
 import com.google.cloud.backend.android.CloudQuery.Order;
 import com.google.cloud.backend.android.CloudQuery.Scope;
-import com.google.cloud.backend.android.R;
 
 import java.io.IOException;
 import java.util.LinkedList;
@@ -55,7 +51,7 @@ public class GuestbookActivity extends CloudBackendActivity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
+    setContentView(R.layout.guestbook);
     tvPosts = (TextView) findViewById(R.id.tvPosts);
     etMessage = (EditText) findViewById(R.id.etMessage);
     btSend = (Button) findViewById(R.id.btSend);

@@ -1,7 +1,6 @@
 package nl.hr.Donaid;
 
 import android.app.Activity;
-import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -9,6 +8,8 @@ import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import com.google.code.rome.android.repackaged.com.sun.syndication.feed.synd.SyndFeed;
+import nl.hr.Donaid.adapter.FeedListAdapter;
+import nl.hr.Donaid.adapter.RssAtomFeedRetriever;
 
 public class FeedActivity
     extends Activity

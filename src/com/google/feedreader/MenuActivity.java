@@ -43,7 +43,7 @@ public class MenuActivity extends Activity implements AdapterView.OnItemClickLis
         IV.setOnClickListener(new View.OnClickListener() {
 
         	
-        	// deze activiteit laat hem naar ForumActivity class gaan
+        	// deze activiteit laat hem naar GuestbookActivity class gaan
     	  @Override
     	  public void onClick(View v) {
     		  startActivity(new Intent(

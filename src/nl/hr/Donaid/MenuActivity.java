@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import com.google.cloud.backend.android.GuestbookActivity;
+import com.google.cloud.backend.android.R;
+import nl.hr.Donaid.adapter.MenuAdapter;
+import nl.hr.Donaid.adapter.MenuItem;
 
 public class MenuActivity extends Activity implements AdapterView.OnItemClickListener {
     /**
@@ -35,11 +39,11 @@ public class MenuActivity extends Activity implements AdapterView.OnItemClickLis
         IV.setOnClickListener(new View.OnClickListener() {
 
         	
-        	// deze activiteit laat hem naar ForumActivity class gaan
+        	// deze activiteit laat hem naar GuestbookActivity class gaan
     	  @Override
     	  public void onClick(View v) {
     		  startActivity(new Intent(
-                      MenuActivity.this,ForumActivity.class));
+                      MenuActivity.this,GuestbookActivity.class));
     	  }
 
     	});
