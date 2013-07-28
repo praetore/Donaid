@@ -10,6 +10,6 @@
         android:layout_width="322dp"
         android:layout_height="482dp"
         android:contentDescription="loadscreen"
-        android:src="@drawable/icon" />
+        android:src="@drawable/splashscreen" />
 
 </LinearLayout>

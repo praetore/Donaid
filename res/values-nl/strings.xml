@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Donaid</string>
+    <string name="menu_settings">Instellingen</string>
     <string name="menutekst"><u>Onderwerpen</u></string>
     <string name="chat">Chat</string>
 
@@ -10,4 +11,8 @@
     <string name="kinderhulp">Kinderhulp</string>
     <string name="dierenwelzijn">Dierenwelzijn</string>
     <string name="gezondheid">Medische hulp</string>
+
+    <string name="send">Verstuur</string>
+    <string name="sendMessage">sendMessage</string>
+    <string name="emptystring"></string>
 </resources>

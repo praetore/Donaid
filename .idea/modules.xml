@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Donaid.iml" filepath="$PROJECT_DIR$/Donaid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackendStarter.iml" filepath="$PROJECT_DIR$/BackendStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/endpoint-libs/libmobilebackend-v1/mobilebackend/mobilebackend.iml" filepath="$PROJECT_DIR$/endpoint-libs/libmobilebackend-v1/mobilebackend/mobilebackend.iml" />
     </modules>
   </component>
 </project>
