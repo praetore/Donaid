@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Donaid</string>
+    <string name="menutekst"><u>Topics</u></string>
+    <string name="chat">Chat</string>
+
+    <string name="voedselhulp">Food aid</string>
+    <string name="milieu">Environment</string>
+    <string name="ontwikkelingshulp">Development aid</string>
+    <string name="kinderhulp">Child welfare</string>
+    <string name="dierenwelzijn">Animal welfare</string>
+    <string name="gezondheid">Medical help</string>
+</resources>

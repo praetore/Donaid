@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="feed_dierenwelzijn" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=Animal+welfare&amp;output=rss</string>
+	<string name="feed_gezondheid" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=cancer%7Caids%7Csclerosis%7Cmedical+aid&amp;output=rss</string>
+	<string name="feed_kinderhulp" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=Child+abuse&amp;output=rss</string>
+	<string name="feed_milieu" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=Environment&amp;output=rss</string>
+	<string name="feed_ontwikkelingshulp" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=Development+aid&amp;output=rss</string>
+	<string name="feed_voedselhulp" formatted="false">https://news.google.nl/news/feeds?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=Food+aid&amp;output=rss</string>
+</resources>

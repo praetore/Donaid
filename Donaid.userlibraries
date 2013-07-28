@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libs">
+    <archive path="C:/Users/jelle/Dropbox/Project App/Producten/Deelproducten/Donaid/libs/android-rome-feed-reader-1.0.0-r2.jar" />
+    <archive path="C:/Users/jelle/Dropbox/Project App/Producten/Deelproducten/Donaid/libs/jdom-1.1.1-android-fork.jar" />
+  </library>
+  <library name="libs">
+    <archive path="C:/Users/jelle/Dropbox/Project App/Producten/Deelproducten/Donaid/libs/android-rome-feed-reader-1.0.0-r2.jar" />
+    <archive path="C:/Users/jelle/Dropbox/Project App/Producten/Deelproducten/Donaid/libs/jdom-1.1.1-android-fork.jar" />
+  </library>
+</eclipse-userlibraries>
+
